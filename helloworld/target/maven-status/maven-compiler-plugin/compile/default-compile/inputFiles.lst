@@ -1,0 +1,12 @@
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/Cardio.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/Yoga.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/HelpIntentHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/CancelandStopIntentHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/HelloWorldIntentHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/HelloWorldStreamHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/PhoneNumber.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/LaunchRequestHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/SessionEndedRequestHandler.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/CaptureTime.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/Workout.java
+/Users/Dana/alexa-skills-kit-sdk-for-java/samples/helloworld/src/com/amazon/ask/helloworld/handlers/FallbackIntentHandler.java
